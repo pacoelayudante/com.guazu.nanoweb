@@ -1,0 +1,25 @@
+{
+  "name": "com.guazu.nanoweb",
+  "displayName": "Nano Web",
+  "description": "A very simple Editor Window that can run a tiny server in a local network, and communicate directly to the Unity Editor via http",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "keywords": [
+    "unity",
+    "tools",
+    "http",
+    "network",
+    "sharing"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pacoelayudante/com.guazu.nanoweb.git"
+  },
+  "author": {
+    "name": "Paco \u00c1lvarez Lojo",
+    "email": "pacoelayudante@gmail.com",
+    "url": "https://twitter.com/pacoelayudante/"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
